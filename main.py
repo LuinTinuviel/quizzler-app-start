@@ -15,6 +15,3 @@ quiz_ui = QuizInterface(quiz)
 
 print("You've completed the quiz")
 print(f"Your final score was: {quiz.score}/{quiz.question_number}")
-
-# TODO 1: Show window asking to restart the quiz
-# TODO 2: Restart game if "Yes" is clicked, otherwise close app
